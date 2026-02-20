@@ -14,7 +14,7 @@ This system captures video from your webcam, detects faces using Haar Cascade cl
 - Clean, user-friendly interface
 
 ## 🛠️ Technologies Used
-- Python 3.x
+- Python 
 - OpenCV (Computer Vision)
 - NumPy (Numerical computations)
 - joblib (Model loading)
