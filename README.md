@@ -79,6 +79,3 @@ Haar Cascade for face detection
 
 Scikit-learn for ML models
 
-After pasting this, scroll down and click **"Commit changes"** .
-
-Your repository will now have a professional-looking README that explains your project perfectly! Would you like help with anything else?
